@@ -1,3 +1,3 @@
 ## Dashboard Preview
 
-![Ecommerce Sales Dashboard](ecommerce-dashboard.png)
+![Ecommerce Sales Dashboard](project no 1 picture.png)
